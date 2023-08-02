@@ -4,7 +4,7 @@ The Frontinus House process is a funding mechanism which utilises DAO assets to 
 This current proposal aims are :
 -  Pilot the Frontinus House process
 -  Fund a wide range of builders to build within the Realms Autonomous World
--  Lock in builders within the ecosystem to synergise with Bibliotheca dao
+-  Lock in builders within the ecosystem to synergise with Bibliotheca DAO
 -  Promote the Realms Autonomous World
 
 The proposal will align with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter.md) and follow an amended version of the Frontinus House Process as detailed within the Voting System Amendment subsection.
