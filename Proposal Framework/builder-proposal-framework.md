@@ -31,5 +31,12 @@ Introduction video link (optional):
 ### Character
 **Please give a brief outline of who you are, what you have built before or what makes you specifically right to tackle the challenge you propose.**
 
+### Objectives
+| Objective     | Contributor   | Estimated deadline  |
+| ------------- |:-------------:| -------------------:|
+| Objective 1   | Contributor 1 | yy/mm/dd            |
+| Objective 2   | Contributor 2 | yy/mm/dd            |
+| Objective 3   | Contributor 3 | yy/mm/dd            |
+
 ### Grant Request
 **Please note the exact amount of grant you are requesting. If grant amounts are standardised within the round, no comment is necessary.**
