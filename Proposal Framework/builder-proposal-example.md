@@ -22,18 +22,18 @@ A Briq development of this scale is yet to of been accomplished but coordinating
 
 I am invigorated to accomplish a world first in collaboration with the greatest DAO within the Ethereum ecosystem. 
 
-### Timeline
-This will be a 6 month build collaborating with the greatest of Briq builders in the world. I estimate a start date of 10/08/2023 and end date of 10/08/2023 although this is an approximation and the may be up to 1-2 month variance.
-
 ### Character
 I am Kevin the lead Brriq designer within the Briq Builders. The Briq Builders are a consortium of builders tied to one another with a love of all thing brick based. We originally built houses in the south of France but have came together to a full Briq based team.
 
 We have past experience in Briq constructions creating such monoliths such as [Stormtrooper](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/3397729407683568938302343871343992746757725172179994875732006277898251010048), [The "M"](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/1842236517849756184448639818545312671498069709556804537674595388048411721728) and [Minimal Pepe](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/1811912121378820551291024701370984384782885702126179583717719098501351079936).
 
+### Timeline
+This will be a 6 month build collaborating with the greatest of Briq builders in the world. I estimate a start date of 10/08/2023 and end date of 10/08/2023 although this is an approximation and the may be up to 1-2 month variance.
+
 ### Objectives
 
-| Objective             | Contributor      | Estimated deadline  |
-| --------------------- |:----------------:|: ------------------:|
+| Objective     | Contributor   | Estimated deadline  |
+| :-------------: |:-------------:| :------------------:|
 | Buy Briq              | Kevin            | 10/08/23            |
 | Plan the Tower        | Kevin & Dave     | 10/09/23            |
 | Complete construction | Kevin, Dave & co | yy/mm/dd            |
