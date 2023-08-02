@@ -7,7 +7,7 @@ This current proposal aims are :
 -  Lock in builders within the ecosystem to synergise with Bibliotheca DAO
 -  Promote the Realms Autonomous World
 
-The proposal will align with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter.md) and follow an amended version of the Frontinus House Process as detailed within the Voting System Amendment subsection.
+The proposal will align with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md) and follow an amended version of the Frontinus House Process as detailed within the Voting System Amendment subsection.
 ## Outline of the Round
 This round aims to simply invite builders within the Starknet and surrounding ecosystems to build within the Realms Autonomous World. The are no restrictions as to who can propose within this round, and there is no specific theme. All submissions are welcome!
 
