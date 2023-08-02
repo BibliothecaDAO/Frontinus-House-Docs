@@ -30,5 +30,13 @@ I am Kevin the lead Brriq designer within the Briq Builders. The Briq Builders a
 
 We have past experience in Briq constructions creating such monoliths such as [Stormtrooper](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/3397729407683568938302343871343992746757725172179994875732006277898251010048), [The "M"](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/1842236517849756184448639818545312671498069709556804537674595388048411721728) and [Minimal Pepe](https://unframed.co/item/0x01435498bf393da86b4733b9264a86b58a42b31f8d8b8ba309593e5c17847672/1811912121378820551291024701370984384782885702126179583717719098501351079936).
 
+### Objectives
+
+| Objective             | Contributor      | Estimated deadline  |
+| --------------------- |:----------------:|: ------------------:|
+| Buy Briq              | Kevin            | 10/08/23            |
+| Plan the Tower        | Kevin & Dave     | 10/09/23            |
+| Complete construction | Kevin, Dave & co | yy/mm/dd            |
+
 ### Grant Request
 The will be cost a great amout of time expecting up to 1000 hours of construction work an approximate cost of 100,000 Briqs at a market rate of .38c per Briq. We expect a total cost of 60,000 USDC.
