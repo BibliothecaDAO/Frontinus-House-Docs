@@ -25,11 +25,11 @@ Introduction video link (optional):
 -  What about this project excites you to build
 -  Any further details you might want to elaborate on
 
-### Timeline
-**Please give an approximate start and end date of your project. If it's a rolling term just detail as such.**
-
 ### Character
 **Please give a brief outline of who you are, what you have built before or what makes you specifically right to tackle the challenge you propose.**
+
+### Timeline
+**Please give an approximate start and end date of your project. If it's a rolling term just detail as such.**
 
 ### Objectives
 | Objective     | Contributor   | Estimated deadline  |
