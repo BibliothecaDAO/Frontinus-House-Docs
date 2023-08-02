@@ -4,7 +4,7 @@ A standard of how a Frontius House proposal should be submitted. Please follow e
 ## BIP ## - Frontinus House Proposal ## (Add name of the round related to the aim of the round)
 The Frontinus House process is a funding mechanism which utilises DAO assets to attract talented builders and to incentivise building within BibliothecaDAO and its current ecosystem.
 
-This current proposal aims are :
+### This proposal aims are:
 -  
 -  
 -  
