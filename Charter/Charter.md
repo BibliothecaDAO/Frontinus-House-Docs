@@ -12,7 +12,7 @@ An open-source credibly neutral platform for funding of builders within the Real
 -  Permissionless access
 -  Open-source nature
   
-Frontinus House specialises within Autonomous Worlds and Fully Onchain Gaming but is not tied to funding within these worlds. Credible neutrality will allow to prop up any ecosystem within the Starknet ecosystem.
+Frontinus House specialises within Autonomous Worlds and Fully Onchain Gaming but is not tied to funding within these worlds. Credible neutrality will allow to prop up any ecosystem.
 
 Immutability - Frontinus House aims to be an incorruptible mechanism for funding builders as such the protocol aims to run as autonomously as possible, fully onchain without centralised components.
 
@@ -32,8 +32,9 @@ When builders apply for a grant within the Frontinus House Mechanism they **must
 -  Communication: Builders should communicate effectively. They should be prepared to ask questions to clarify bounty requirements and to respond to questions about their proposals.
 -  Quality Assurance: Builders should outline their approach to quality assurance and testing in their proposals. They should be prepared to explain how they will ensure any protocol component is robust, secure, and reliable.
 -  Compliance: Builders should respect intellectual property rights and other relevant laws and regulations.
--  Risk Management: Builders should clearly identify any potential risks associated with their proposals and describe how they intend to mitigate these risks. This might include risks related to technology, team capacity, funding, or external factors.
 -  Feedback: Builders should be open to receiving and responding to feedback on their proposals. They should be prepared to revise their proposals based on feedback from the the funding instigator.
+
+Proposals within Frontinus House will assume to be open-source
 
 
 
