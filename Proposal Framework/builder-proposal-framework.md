@@ -1,7 +1,7 @@
 # Frontinus House Builder Proposal
 A standard of how a Frontinus House Builder Proposal should be submitted. Please follow each Proposal to Frontinus house in a similar fashion. Amendments are required in sections highlighted boldly. Please submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues)
 
-[open an issue](https://github.com/Calcutatator/Frontinus-House-Docs/issues/new?assignees=Calcutator,0x25cfb68&labels=Builder-Proposal&template=builder-proposal-framework.md&title=Add+%NAME-OF-BUILDER/PROJECT%7D%3A+%7BNAME-OF-PROJECT%7D).
+[open an issue](https://github.com/Calcutatator/Frontinus-House-Docs/issues/new?assignees=Calcutator,0x25cfb68&labels=Builder-Proposal&template=Proposal-Framework/builder-proposal-framework.md&title=Add+%NAME-OF-BUILDER/PROJECT%7D%3A+%7BNAME-OF-PROJECT%7D).
 
 ## ***NAME OF BUILDER/TEAM - NAME OF PROJECT***
 
