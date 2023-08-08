@@ -1,6 +1,6 @@
 # Build on Realms
-Help build the future of autonomous worlds with BibliothaDAO. This round will fund new protocols, tools, and infrastructure built within the Realms Autonomous World.
- 
+An open round where builders are encouraged to propose any idea they believe will benefit the BibliothecaDAO ecosystem. Anyone with an ETH address is welcome to propose. Once the proposing period is complete, BibliothecaDAO members will vote on their favorite proposals. The proposals with the most votes will get funded. Learn more at realms.world
+
 ### Example Projects
 - Build Dune dashboards showcasing Eternum onchain data
 - AMM front-end (swap tokens, create markets, add liquidity outside of game UI)
@@ -19,5 +19,5 @@ Help build the future of autonomous worlds with BibliothaDAO. This round will fu
 ### Who can submit?
 To control for spam and be eligible to receive a grant, persons must be at least of the age of majority in his or her state or country of residence and are not legal residents of any OFAC sanctioned country. All proposals will be checked for spam and duplication
 
-### Official Rules and Grant Recipient Selection
-Propoosals must 
+### Proposal Submission 
+Fill out a [Proposal Form](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues).
