@@ -34,7 +34,7 @@ When builders apply for a grant within the Frontinus House Mechanism they **must
 -  Compliance: Builders should respect intellectual property rights and other relevant laws and regulations.
 -  Feedback: Builders should be open to receiving and responding to feedback on their proposals. They should be prepared to revise their proposals based on feedback from the the funding instigator.
 
-Proposals within Frontinus House will assume to be open-source
+Proposals within Frontinus House will assume to be open-source unless explicitly notes within the builders proposal.
 
 
 
