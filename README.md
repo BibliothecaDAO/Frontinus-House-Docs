@@ -7,7 +7,7 @@ Use the table of contents icon <img src="https://github.com/Calcutatator/Frontin
 ## Steps of Frontinus
 The main stages of Frontinus House will follow several stages.
 1. Receipt of funds towards Frontinus House. Utilising a [BIP Proposal](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/bip-proposal-framework.md).
-2. Builders will propose to the DAO. Utilising a [Builder Proposal](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md).
+2. Builders will propose to the DAO. Utilising a [Builder Proposal](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and meeting the criteria within 
 3. BibliothecaDAO will vote on the proposals put forward to the round.
 
 All stages *must* stay in line with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md).
