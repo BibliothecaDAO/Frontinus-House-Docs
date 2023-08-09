@@ -10,7 +10,15 @@ The main stages of Frontinus House will follow several stages.
 2. Builders will propose to the DAO. Utilising a [Builder Proposal](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and meeting the criteria within 
 3. BibliothecaDAO will vote on the proposals put forward to the round.
 
-All stages *must* stay in line with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md).
+## Genesis Grant Round Builders
+Once the round is live please follow the below steps prior to submitting your proposal.
+1. Read the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md) all rounds must abide within these rules.
+2. Read the [Genesis criteria](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/FH%20Rounds%20Criteria/%231%20Genesis%20of%20Frontinus.md), this is the criteria in which this specific proposal must adhere to.
+3. Submit a [Builder Proposal](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md)
+
+---
+
+All stages *must* stay in line with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md)
 
 ## Join us in discussions
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing you've learned in our docs, join us in the [discussions](https://github.com/Calcutatator/Frontinus-House-Docs/discussions/2).
