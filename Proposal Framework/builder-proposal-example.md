@@ -36,7 +36,7 @@ This will be a 6 month build collaborating with the greatest of Briq builders in
 | :-------------: |:-------------:| :------------------:|
 | Buy Briq              | Kevin            | 10/08/23            |
 | Plan the Tower        | Kevin & Dave     | 10/09/23            |
-| Complete construction | Kevin, Dave & co | yy/mm/dd            |
+| Complete construction | Kevin, Dave & co | TBD                 |
 
 ### Grant Request
 The will be cost a great amout of time expecting up to 1000 hours of construction work an approximate cost of 100,000 Briqs at a market rate of .38c per Briq. We expect a total cost of 60,000 USDC.
