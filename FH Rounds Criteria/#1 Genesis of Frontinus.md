@@ -22,3 +22,8 @@ To control for spam and be eligible to receive a grant, persons must be at least
 
 ### Proposal Submission 
 Fill out a [Proposal Form](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues).
+
+### Valid Submissions 
+A proposal must meet these two requirements:
+- A minimum of 50% approval rating (Proposal must get consensus approval)
+- Greater than 20% of votes of the most voted proposal (Proposals will have a reasonable quorum)
