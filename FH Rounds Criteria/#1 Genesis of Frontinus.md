@@ -20,9 +20,6 @@ This is intended to be retroactive funding based on builders reputation and scop
 ### Who can submit?
 To control for spam and be eligible to receive a grant, persons must be at least of the age of majority in his or her state or country of residence and are not legal residents of any OFAC sanctioned country. All proposals will be checked for spam and duplication by the Frontinus House Operator.
 
-### Proposal Submission 
-Fill out a [Proposal Form](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues).
-
 ### Valid Submissions 
 A proposal must meet these two requirements:
 - A minimum of 50% approval rating (Proposal must get consensus approval)
@@ -30,3 +27,6 @@ A proposal must meet these two requirements:
 
 ### Approved Submissions
 Approved submissions will receive 50% of the grant be vested over 3 months. On completion of the objectives defined within the proposal, the remaining 50% will be released to builders and vested over a further 3 months.
+
+### Proposal Submission 
+Fill out a [Proposal Form](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues).
