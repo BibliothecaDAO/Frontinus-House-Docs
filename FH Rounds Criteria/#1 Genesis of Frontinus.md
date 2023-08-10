@@ -27,3 +27,6 @@ Fill out a [Proposal Form](https://github.com/Calcutatator/Frontinus-House-Docs/
 A proposal must meet these two requirements:
 - A minimum of 50% approval rating (Proposal must get consensus approval)
 - Greater than 20% of votes of the most voted proposal (Proposals will have a reasonable quorum)
+
+### Approved Submissions
+Approved submissions will receive 50% of the grant be vested over 3 months. On completion of the objectives defined within the proposal, the remaining 50% will be released to builders and vested over a further 3 months.
