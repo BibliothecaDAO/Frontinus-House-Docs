@@ -12,6 +12,9 @@ If your BIP Proposal utilises specific criteria of who can submit a proposal ple
 
 **To control for spam and be eligible to receive a grant, persons must be at least of the age of majority in his or her state or country of residence and are not legal residents of any OFAC sanctioned country. All proposals will be checked for spam and duplication by the Frontinus House Operator.**
 
+### Funding Allocation
+Outline the funds allocated to this round and the mechanism in which to be dispersed.
+
 ### Proposal Submission
 If your BIP Proposal utilises specific criteria of who can submit a proposal please specify. Otherwise please utilise the statement below:
 
