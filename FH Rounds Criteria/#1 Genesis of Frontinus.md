@@ -21,7 +21,7 @@ This is intended to be retroactive funding based on builders reputation and scop
 To control for spam and be eligible to receive a grant, persons must be at least of the age of majority in his or her state or country of residence and are not legal residents of any OFAC sanctioned country. All proposals will be checked for spam and duplication by the Frontinus House Operator.
 
 ### Funding Allocation
-This round will have up to 5 grants of 100,000 lords to be won by builders. A builder proposal can request less than the 100,000 lords but under no circumstance can request more than that amount.
+This round has 5 grants of 100,000 lords to be won by builders. A builder proposal can request less than the 100,000 lords but under no circumstance can request more than that amount.
 
 ### Valid Submissions 
 A proposal must meet these two requirements:
