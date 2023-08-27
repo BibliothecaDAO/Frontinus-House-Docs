@@ -1,8 +1,5 @@
-# Frontinus House Builder Proposal
-Host a hacker house in Nairobi, Kenya in partnership with Usiku Games, a game development studio. The hacker house will be focused on researching and creating immutable on-chain games that follow the play2die model.
-
-
 ## NAIROBI HACKER HOUSE IN PARTNERSHIP WITH USIKU GAMES
+Host a hacker house in Nairobi, Kenya in partnership with Usiku Games, a game development studio. The hacker house will be focused on researching and creating immutable on-chain games that follow the play2die model.
 
 
 ### Introduction
