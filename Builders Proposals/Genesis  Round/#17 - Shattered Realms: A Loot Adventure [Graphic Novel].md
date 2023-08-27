@@ -1,8 +1,11 @@
 ### **Project Title: Shattered Realms: A Loot Adventure**
 
 **Name or social handle of proposer:** O_Excess
+
 **Ethereum Mainnet Address:** 0x442935c1310a1FAf3983EEbb7B39382EA3d99591
+
 **ENS:** oexcess.eth
+
 **Twitter handle:** https://twitter.com/O_Excess
 
 
