@@ -1,6 +1,5 @@
 # Frontinus House Builder Proposal: Fully Composable, Incentive, and Decentralized Lootverse Gaming Collaboration and Creation Network
 
-
 ### Introduction
 Name of proposer: **Myron Will**
 
