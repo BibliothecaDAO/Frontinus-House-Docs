@@ -37,7 +37,7 @@ The Frontinus House process has several stages to completion. Beginning on 10 Au
 This means the round will be completed on approximately **31 August 2023**, and at this point 50% of the funds will be vested over **3** months to the accepted builders. On completion of the objectives defined within the proposal, the remaining 50% will be released to builders and vested over a further **3** months.
 
 ### Voting System Amendment
-The Genesis Round will have an amended voting period process. Instead of an in app voting system, we will use a simple emoji based vote within the [Realms x Bibliotheca DAO](https://discord.gg/bibliothecadao) discord for Realm holders. This will mean each Realm NFT holder will only hold single voting power per proposal. Builders receiving the highest approval ratings will receive the grants.
+The Genesis Round will have an amended voting period process. Instead of an in app voting system, we will use a simple emoji based vote within the [Realms x Bibliotheca DAO](https://discord.gg/realmsworld) discord for Realm holders. This will mean each Realm NFT holder will only hold single voting power per proposal. Builders receiving the highest approval ratings will receive the grants.
 
 Approval rating will be calculated as a percentage of total votes on each proposal. Example - 100 votes with 60 for and 40 against will mean a 60% approval rating. 
 
