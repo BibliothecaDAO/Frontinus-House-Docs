@@ -9,7 +9,7 @@ The Frontinus House process is a funding mechanism which utilises DAO assets to 
 -  
 -  
 - 
-The proposal will follow the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md).
+The proposal will follow the [Frontinus House Charter](https://github.com/Bibliothecadao/Frontinus-House-Docs/blob/main/Charter/Charter.md).
 ### Outline of the Round
 - **Does it require use of a framework/what is that framework**
 - **Does it require token gating**
