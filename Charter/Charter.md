@@ -1,8 +1,8 @@
 # Frontinus House Charter
 ### Frontinus and BibliothecaDAO
-The Frontinus House Charter is here to establish a framework in which Frontinus House can work with the BibliothecDAO. The aim of Frontinus House is to establish a way to incentivise teams to work in the BibliothecaDAO ecosystem, fleshing out a living Autonomous World and the infrastructure to maintain that.
+The Frontinus House Charter is here to establish a framework in which Frontinus House can work with the BiblioDAO. The aim of Frontinus House is to establish a way to incentivise teams to work in the BiblioDAO ecosystem, fleshing out a living Autonomous World and the infrastructure to maintain that.
 
-Frontinus House Charter is here to build within the constitution of BibliothecaDAO and follow the key aims of Autonomous Worlds - Valuing permissionless, open-source, interoperable and decentralised blockchain protocols.
+Frontinus House Charter is here to build within the constitution of BiblioDAO and follow the key aims of Autonomous Worlds - Valuing permissionless, open-source, interoperable and decentralised blockchain protocols.
 
 ### The Charter - Rules we must live by
 > Frontinus House is a public good
