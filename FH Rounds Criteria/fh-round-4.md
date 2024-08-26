@@ -1,5 +1,5 @@
 # Build within the Realms Autonomous World
-An open round where builders are encouraged to propose any idea they believe will benefit the BiblioDAO ecosystem. Anyone with an ETH address is welcome to propose. Once the proposing period is complete, BiblioDAO members will vote on their favorite proposals. The proposals with the most votes will get funded. Learn more at realms.world
+An open round where builders are encouraged to propose any idea they believe will benefit the BiblioDAO ecosystem. Anyone with an ETH address is welcome to propose. Once the proposing period is complete, BiblioDAO members will vote on their favorite proposals. The proposals with the most votes will get funded. Learn more at [realms.world](https://realms.world)
 
 ### Example Projects
 - Build Dune dashboards showcasing Eternum or Loot survivor onchain data
