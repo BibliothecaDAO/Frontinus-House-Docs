@@ -1,14 +1,12 @@
 # Frontinus House Builder Proposal
-A standard of how a Frontinus House Builder Proposal should be submitted. Please follow each Proposal to Frontinus house in a similar fashion. Amendments are required in sections highlighted boldly. Please submit your proposal as an issue within this [repository](https://github.com/Calcutatator/Frontinus-House-Docs/issues).
+A standard of how a Frontinus House Builder Proposal should be submitted. Please follow each Proposal to Frontinus house in a similar fashion. Amendments are required in sections highlighted boldly. Please submit your proposal as an issue within this [repository](https://github.com/Bibliothecadao/Frontinus-House-Docs/issues).
 
 ## ***NAME OF BUILDER/TEAM - NAME OF PROJECT***
 
 ### Introduction
 Name or social handle of proposer: **[Name]**
 
-Ethereum Mainnet Address: **[0x71c…] (To receive funds)**
-
-ENS name (optional): **[please set as primary ENS]**
+Starknet Mainnet Address: **[0x71c…] (To receive funds)**
 
 Twitter handle (optional): **[@Handle]**
 
@@ -17,7 +15,7 @@ Any relevant links/Websites (optional):
 Introduction video link (optional):
 
 ### Project Detail
-**Please give a detail of what you wish to build. Please give an overview of the project and its nuances. This is where you wish to give detail about why this project should be chosen for a grant. A few possible points to use**
+**Please give a detail of what you wish to build. Please give an overview of the project and its nuances. This is where you wish to give detail about why this project should be chosen for a grant. A few example comments below:**
 
 -  What is the name of the project
 -  What is it based upon (If the are any examples of similar projects)
@@ -30,14 +28,9 @@ Introduction video link (optional):
 **Please give a brief outline of who you are, what you have built before or what makes you specifically right to tackle the challenge you propose.**
 
 ### Timeline
-**Please give an approximate start and end date of your project. If it's a rolling term just detail as such.**
+**Please give an approximate start and end date of your project. If it's a rolling term just detail as such** 
 
-### Objectives
-| Objective     | Contributor   | Estimated deadline  |
-| ------------- |:-------------:| -------------------:|
-| Objective 1   | Contributor 1 | yy/mm/dd            |
-| Objective 2   | Contributor 2 | yy/mm/dd            |
-| Objective 3   | Contributor 3 | yy/mm/dd            |
+This information will be used to indicate the end state of your project and hence release of any assets based upon completion.
 
 ### Grant Request
 **Please note the exact amount of grant you are requesting. If grant amounts are standardised within the round, no comment is necessary.**
