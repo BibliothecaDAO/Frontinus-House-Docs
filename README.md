@@ -1,7 +1,7 @@
 # Frontinus-House-Docs
-This repository contains the documentation for [realms.world](realms.world) governance.
+This repository contains the documentation for [realms.world](https://realms.world) governance.
 
-Use the table of contents icon <img src="https://github.com/Calcutatator/Frontinus-House-Docs/assets/114863662/237ee2ac-6d87-4dbe-807f-ffa4b18e9371" width="25" height="25" />
+Use the table of contents icon <img src="https://github.com/Bibliothecadao/Frontinus-House-Docs/assets/114863662/237ee2ac-6d87-4dbe-807f-ffa4b18e9371" width="25" height="25" />
  on the top left corner of this document to navigate to a specific section quickly.
 
 ## Steps of Frontinus
