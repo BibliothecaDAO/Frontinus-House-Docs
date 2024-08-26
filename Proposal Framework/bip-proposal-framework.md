@@ -23,8 +23,9 @@ This cost is the maximum amount utilised, if funding is not granted for the tota
 
 ### Execution
 The Frontinus House process has several stages to completion. Beginning on X date the process will begin as follows :
--  **1 week** voting period for delegates will be completed.
--  **2 week** proposal period for builders to apply for grants.
+-  **1 week** Announcement via socials to inform the community of the upcoming round.
+-  **1 week** proposal period for builders to apply for grants.
 -  **1 week** voting period for delegates to decide on which grantees get accepted.
+-  
 This will mean the round will be completed on approximately **X** date and all funds will be vested over **X** months.
 
