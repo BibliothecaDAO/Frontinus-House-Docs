@@ -1,5 +1,5 @@
 # Build within the Realms Autonomous World
-An open round where builders are encouraged to propose any idea they believe will benefit the BibliothecaDAO ecosystem. Anyone with an ETH address is welcome to propose. Once the proposing period is complete, BibliothecaDAO members will vote on their favorite proposals. The proposals with the most votes will get funded. Learn more at realms.world
+An open round where builders are encouraged to propose any idea they believe will benefit the BiblioDAO ecosystem. Anyone with an ETH address is welcome to propose. Once the proposing period is complete, BiblioDAO members will vote on their favorite proposals. The proposals with the most votes will get funded. Learn more at realms.world
 
 ### Example Projects
 - Build Dune dashboards showcasing Eternum or Loot survivor onchain data
@@ -13,7 +13,7 @@ An open round where builders are encouraged to propose any idea they believe wil
 ### Submission Criteria
 This is intended to be retroactive funding based on builders reputation and scope of your proposal.
 - Submissions must include completed work and suggest this work may influence your proposal
-- Submissions must be related to the BibliothecaDAO ecosystem
+- Submissions must be related to the BiblioDAO ecosystem
 - All proposals must follow the Builders Constitution within the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md)
 - All proposals will be understood to be open-source unless specifically stated
 
