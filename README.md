@@ -13,7 +13,7 @@ The main stages of Frontinus House will follow several stages.
 ## Grant Round Builders
 Once the round is live please follow the below steps prior to submitting your proposal.
 1. Read the [Frontinus House Charter](https://github.com/Bibliothecadao/Frontinus-House-Docs/blob/main/Charter/Charter.md) all rounds must abide within these rules.
-2. Read the [Round Criteria](https://github.com/BibliothecaDAO/Frontinus-House-Docs/edit/main/FH%20Rounds%20Criteria/fh-round-4.md), this is the criteria in which this specific proposal must adhere to.
+2. Read the [Round Criteria](https://github.com/BibliothecaDAO/Frontinus-House-Docs/blob/main/FH%20Rounds%20Criteria/criteria-framework.md), this is the criteria in which this specific proposal must adhere to.
 3. Submit a [Builder Proposal](https://github.com/Bibliothecadao/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md)
 
 ---
