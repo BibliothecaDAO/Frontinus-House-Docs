@@ -40,7 +40,7 @@ This requirement will be managed by the [ecosystem council](https://docs.google.
 Each succesful application will imediately earn 2 Ethereum also 100k LORDS which will be earnt on the completion of the scope of their respective proposal.
 
 ### Valid Submissions 
-The 5 proposal which earn the most "For" votes will be approved.
+The 5 proposals which earn the most "For" votes will be approved.
 
 ### Proposal Submission 
 Fill out a [Proposal Form](https://github.com/bibliothecadao/Frontinus-House-Docs/blob/main/Proposal%20Framework/builder-proposal-framework.md) and submit your proposal as an issue within this [repository](https://github.com/bibliothecadao/Frontinus-House-Docs/issues).
