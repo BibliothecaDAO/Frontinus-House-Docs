@@ -37,7 +37,7 @@ This round will implement the requirement that each project must report progress
 This requirement will be managed by the [ecosystem council](https://docs.google.com/document/d/1-OwnbVDUoUmXMoqnlYv5Q29Mu-1CvXbscIZNZGw45vo/edit?usp=sharing).
 
 ### Funding Allocation
-Each succesful application will imediately earn 2 Ethereum also 100k LORDS which will be earnt on the completion of the scope of their respective proposal.
+Each succesful application will immediately earn 2 Ethereum; 100k LORDS will also be earnt on the completion of the scope of their proposal.
 
 ### Valid Submissions 
 The 5 proposals which earn the most "For" votes will be approved.
