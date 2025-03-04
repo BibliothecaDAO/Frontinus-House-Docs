@@ -10,3 +10,5 @@ The are 11 full proposals and the current setup will allow 10 of them to pass al
 
 Overall this proposal creates a more competitive round with higher rewards versus the current setup.
 
+## Execution
+This proposal is being run in parallel to the current Frontinus House round and voting will end just before it therefore if this proposal passes the above will be executed with 5 winners, if not the top 10 voted proposals will maintain 100k lORDS each.
