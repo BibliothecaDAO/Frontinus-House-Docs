@@ -13,4 +13,4 @@ Overall this proposal creates a more competitive round with higher rewards versu
 ## Execution
 This proposal is being run in parallel to the current Frontinus House round and voting will end just before it therefore if this proposal passes the above will be executed with 5 winners, if not the top 10 voted proposals will maintain 100k lORDS each.
 
-All funds will be taken from the Frontinus House account as established in [BIP-72](https://snapshot.box/#/sn:0x07bd3419669f9f0cc8f19e9e2457089cdd4804a4c41a5729ee9c7fd02ab8ab62/proposal/43)
+Onchain execution will not be changed all funds will be taken from the Frontinus House account as established in [BIP-72](https://snapshot.box/#/sn:0x07bd3419669f9f0cc8f19e9e2457089cdd4804a4c41a5729ee9c7fd02ab8ab62/proposal/43)
