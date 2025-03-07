@@ -79,7 +79,7 @@ Unlock: Ship Loot Hisorian to Mainnet in parallel with Lutte Caster.
 - **Feedback & Next Steps:**  
   - Completing the AA-based DAO with proposal execution and Integrating the AI agent further.
 
-Unlock: Ship AFK to Mainnet.
+Unlock: AA to be completed with execution.
 
 ---
 
